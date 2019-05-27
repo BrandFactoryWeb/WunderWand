@@ -43,7 +43,7 @@
 }
 
 .choices[data-type*="select-one"] .choices__button {
-  background-image: url("../images/cross-inverse.svg");
+  background-image: url("https://brandfactoryweb.github.io/WunderWand/wp-content/plugins/wpforms-lite/assets/images/cross-inverse.svg");
   padding: 0;
   background-size: 8px;
   height: 100%;
@@ -129,7 +129,7 @@
   margin-left: 8px;
   padding-left: 16px;
   border-left: 1px solid #0a4f7e;
-  background-image: url("../images/cross.svg");
+  background-image: url("https://brandfactoryweb.github.io/WunderWand/wp-content/plugins/wpforms-lite/assets/images/cross.svg");
   background-size: 8px;
   width: 8px;
   line-height: 1;
@@ -720,7 +720,7 @@ body .choices input[type=text].choices__input {
 .wpforms-flag {
   width: 16px;
   height: 16px;
-  background: url(../images/flags.png) no-repeat;
+  background: url(https://brandfactoryweb.github.io/WunderWand/wp-content/plugins/wpforms-lite/assets/images/flags.png) no-repeat;
   display: inline-block;
 }
 
@@ -3321,19 +3321,19 @@ body .choices input[type=text].choices__input {
 
 #wpforms-admin-about .wpforms-admin-about-section-table table p.features-full {
   padding-left: 30px;
-  background-image: url(../images/about/icon-full.svg);
+  background-image: url(https://brandfactoryweb.github.io/WunderWand/wp-content/plugins/wpforms-lite/assets/images/about/icon-full.svg);
 }
 
 #wpforms-admin-about .wpforms-admin-about-section-table table p.features-none {
   padding-left: 30px;
-  background-image: url(../images/about/icon-none.svg);
+  background-image: url(https://brandfactoryweb.github.io/WunderWand/wp-content/plugins/wpforms-lite/assets/images/about/icon-none.svg);
 }
 
 #wpforms-admin-about .wpforms-admin-about-section-table table p.features-partial {
   padding-left: 30px;
   background-position: -3px 0;
   background-size: 23px auto;
-  background-image: url(../images/about/icon-partial.svg);
+  background-image: url(https://brandfactoryweb.github.io/WunderWand/wp-content/plugins/wpforms-lite/assets/images/about/icon-partial.svg);
 }
 
 #wpforms-admin-about .wpforms-admin-about-section-table .wpforms-admin-about-section-hero-main {
@@ -3512,11 +3512,11 @@ body .choices input[type=text].choices__input {
 }
 
 .wpforms-admin-settings .wpforms-setting-row#wpforms-setting-row-email-template .wpforms-setting-field .option-default:before {
-  background: url(../images/settings-email-html.png) center center;
+  background: url(https://brandfactoryweb.github.io/WunderWand/wp-content/plugins/wpforms-lite/assets/images/settings-email-html.png) center center;
 }
 
 .wpforms-admin-settings .wpforms-setting-row#wpforms-setting-row-email-template .wpforms-setting-field .option-none:before {
-  background: url(../images/settings-email-plaintext.png) center center;
+  background: url(https://brandfactoryweb.github.io/WunderWand/wp-content/plugins/wpforms-lite/assets/images/settings-email-plaintext.png) center center;
 }
 
 .wpforms-admin-settings .wpforms-setting-row.wpforms-setting-row-image .wpforms-setting-field img {

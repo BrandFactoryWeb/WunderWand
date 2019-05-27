@@ -2,7 +2,7 @@
   border-radius: 2px;
   box-shadow: 0 0 50px 0 rgba(0, 0, 0, 0.1);
   margin-bottom: 30px;
-  background: #444 url("../images/challenge/getting-started.png") center right no-repeat;
+  background: #444 url("https://brandfactoryweb.github.io/WunderWand/wp-content/plugins/wpforms-lite/assets/images/challenge/getting-started.png") center right no-repeat;
   background-size: contain;
 }
 
@@ -293,12 +293,12 @@ span.wpforms-challenge-dot.wpforms-challenge-dot-completed {
 }
 
 .wpforms-challenge-popup-header-congrats {
-  background: #eee url("../images/challenge/popup-congrats.png") no-repeat center;
+  background: #eee url("https://brandfactoryweb.github.io/WunderWand/wp-content/plugins/wpforms-lite/assets/images/challenge/popup-congrats.png") no-repeat center;
   background-size: cover;
 }
 
 .wpforms-challenge-popup-header-contact {
-  background: #eee url("../images/challenge/popup-contact.png") no-repeat center;
+  background: #eee url("https://brandfactoryweb.github.io/WunderWand/wp-content/plugins/wpforms-lite/assets/images/challenge/popup-contact.png") no-repeat center;
   background-size: auto 57%;
 }
 

@@ -321,7 +321,7 @@
 }
 
 .wpforms-dash-widget.wpforms-pro .wpforms-dash-widget-forms-list-block table button {
-  background: #fff url(../images/icon-graph.png) center center no-repeat;
+  background: #fff url(https://brandfactoryweb.github.io/WunderWand/wp-content/plugins/wpforms-lite/assets/images/icon-graph.png) center center no-repeat;
   background-size: 62%;
   border: 1px solid #ddd;
   border-radius: 5px;
@@ -344,7 +344,7 @@
   right: 0;
   bottom: 0;
   left: 0;
-  background: url(/wp-includes/images/spinner.gif) no-repeat center calc(50% - 12px);
+  background: url(http://localhost:8888/wp-includes/images/spinner.gif) no-repeat center calc(50% - 12px);
   background-color: white;
   z-index: 10;
 }
